@@ -1,2 +1,5 @@
 # Senior-Graduation-Project
 Java Based System to Maintain Senior Projects Repository and Apply Data Analytics
+The Senior Project Management System (GPMS), is a software system that manages the senior projects of undergraduate students. Management includes three views, namely, student, faculty, and coordinator (Admin). Faculty can be either advisor or examiner. Advisor posts project proposals for students to select and work on and after that she grades them according to rubrics set by the college. Examiner faculty grades projects. Coordinator manages global college setup of the system such as rubric set up, scheduling, and others. Finally students can see proposals, get allocated to project, submit their deliverables/reports, and see their grades.
+GPMS has great benefits for the college and can be considered as a repository for student projects, deliverables, and grades. It is a valuable tool in which we can apply different techniques in computer science to mine the grades, identify weaknesses, check for cheating, and reuse previous student experiences.
+
